@@ -1,0 +1,6 @@
+/Users/fnuaruna/Projects/MovieLibrary/MovieLibrary/obj/Debug/MovieLibrary.csprojAssemblyReference.cache
+/Users/fnuaruna/Projects/MovieLibrary/MovieLibrary/obj/Debug/MovieLibrary.csproj.CoreCompileInputs.cache
+/Users/fnuaruna/Projects/MovieLibrary/MovieLibrary/bin/Debug/MovieLibrary.exe
+/Users/fnuaruna/Projects/MovieLibrary/MovieLibrary/bin/Debug/MovieLibrary.pdb
+/Users/fnuaruna/Projects/MovieLibrary/MovieLibrary/obj/Debug/MovieLibrary.exe
+/Users/fnuaruna/Projects/MovieLibrary/MovieLibrary/obj/Debug/MovieLibrary.pdb

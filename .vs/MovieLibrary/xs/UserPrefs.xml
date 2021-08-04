@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{B1CBABB2-3ECF-4DC8-B49A-FECC2BB23D2D}|Default">
+  <MonoDevelop.Ide.ItemProperties.MovieLibrary PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MovieLibrary/MovieCollection.cs">
+    <Files>
+      <File FileName="MovieLibrary/Program.cs" Line="146" Column="80" />
+      <File FileName="MovieLibrary/MemberCollection.cs" Line="160" Column="17" />
+      <File FileName="MovieLibrary/Member.cs" Line="37" Column="10" />
+      <File FileName="MovieLibrary/MovieCollection.cs" Line="194" Column="75" />
+      <File FileName="MovieLibrary/Movie.cs" Line="72" Column="25" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MovieLibrary" expanded="True">
+            <Node name="MovieLibrary" expanded="True">
+              <Node name="MovieCollection.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
